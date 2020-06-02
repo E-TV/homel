@@ -1,4 +1,4 @@
-## Welcome to my my Homepage!
+## Welcome to my Homepage!
 
 On this website i'll publish my latest projects!
 
