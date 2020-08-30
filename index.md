@@ -1,37 +1,20 @@
 ## Welcome to my Homepage!
 
 On this website I will publish my latest projects!
+
+
+### YouTube
 Make sure to check out my YouTube-Channel:
 https://www.youtube.com/channel/UCVW9AqTwOfjLOtqSVVc8O8A
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 
 
-### Jekyll Themes
 
 
 
-### Support or Contact
+### Github
 
-Bam!
+
+
+### Instructables
